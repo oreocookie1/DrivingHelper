@@ -14,7 +14,7 @@ scipy==1.6.3
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.5.0
+tensorflow==2.11.1
 tensorflow-estimator==2.5.0
 torch==1.8.1+cpu
 torchaudio==0.8.1
